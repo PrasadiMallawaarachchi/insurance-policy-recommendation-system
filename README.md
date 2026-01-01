@@ -406,7 +406,6 @@ Expected output:
 
 ## License
 
-Research project for Prasa Insurance Recommendation System.
 
 ## Authors
 
